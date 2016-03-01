@@ -16,7 +16,7 @@ You can see the full description of this game (and you are **highly recommended*
 You **DO NOT** need to change any of these files:
   - readme.md          : You are reading it
   - demo.html          : The original game where the `PlantEater` animals do not last very long. It is for your reference.
-  - smart.html         : This is the file you will use to run Task 1. 
+  - smart.html         : This is the file you will use to run Task 1.
   - predator.html      : This is the file you will use to run Task 2.
   - js/animateworld.js : Code provided in [Eloquent JavaScript](http://eloquentjavascript.net/)
   - js/elife.js        : Code provided in [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -54,7 +54,7 @@ Implement the behavior of the `Tiger` so that they can become the King of the La
 >
 > Excerpt from Eloquent JavacriptL: Chapter 7 Electronic Life
 
-### Taks 3: Optional
+### Task 3: Optional
 You can create another HTML file to host other variations of the animals, create new animals or even create a new world. Be Creative!!
 
 
